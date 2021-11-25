@@ -6,7 +6,7 @@
 A Simple and modern quote Generator.
 
 
-![Logo](https://github.com/SahilChandravanshi/Quoteum/blob/main/Logo.png)
+![Logo](https://github.com/SahilChandravanshi/Quoteum/blob/main/Qu_teumBG.png)
 
 
 ## Screenshots
